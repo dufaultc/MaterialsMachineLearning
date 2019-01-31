@@ -1,6 +1,6 @@
 # DeltaHacksV
 
-Team of Tim Choy, Sam Crawford, Lewis Rafuse, and Cameron Dufault. We are tackling the Materials Engineering Challenge.
+Team of Cameron Dufault, Tim Choy, Sam Crawford, and Lewis Rafuse. We are tackling the Materials Engineering Challenge.
 
 ## Running
 
