@@ -1,10 +1,10 @@
 # DeltaHacksV
 
-Team of Cameron Dufault, Tim Choy, Sam Crawford, and Lewis Rafuse. We are tackling the Materials Engineering Challenge.
+Team of Cameron Dufault, Tim Choy, Sam Crawford, and Lewis Rafuse. We are tackling the Materials Engineering Challenge. Images for testing found at https://www.dropbox.com/sh/w9ao0zobloqwjvf/AAAcE0Rf_SvSic_KWxFrBCX6a?dl=0.
 
 ## Running
 
-You can run either `python Main.py` or `python MainNoGUI.py` (you might have to specify your version of Python) to use either the GUI or non-GUI version of the software, respectively.
+You can run either `python Main.py` or `python MainNoGUI.py` (you might have to specify your version of Python) to use either the GUI or non-GUI version of the software, respectively. Save the image folder one level above the main project folder.
 
 ## Description of Problem
 
