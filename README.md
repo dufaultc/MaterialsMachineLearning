@@ -1,6 +1,6 @@
 # DeltaHacksV
 
-Team of Cameron Dufault, Tim Choy, Sam Crawford, and Lewis Rafuse. We are tackling the Materials Engineering Challenge. Images for testing found at https://www.dropbox.com/sh/w9ao0zobloqwjvf/AAAcE0Rf_SvSic_KWxFrBCX6a?dl=0.
+My group tackled the Materials Engineering Challenge described below. Images for testing found at https://www.dropbox.com/sh/w9ao0zobloqwjvf/AAAcE0Rf_SvSic_KWxFrBCX6a?dl=0. I conceived of the method by which my team solved the challenge. I proved the concept using the jupyter notebook and focused on improving our results through conditioning the data and adding new data points for the algorithm to work with. I was joined on my team by, Tim Choy, Sam Crawford, and Lewis Rafuse. 
 
 ## Running
 
